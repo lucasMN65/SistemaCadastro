@@ -1,4 +1,4 @@
-//Retirei os comentários para melhora a leitura do código.
+//Retirei os comentários para melhorar a leitura do código.
 let lista = ["Lucas","Leo","Joana"];
 let vagas = 100
 
@@ -7,7 +7,7 @@ let vagas = 100
     }else{
         console.log("Não temos mais vagas!")
     }
-// sistema de idade
+// sistema 
  let idadePermitida = 18 
  let idade 
 // //vamos criar a interação com o usuário, para obter a idade e guadar o valor na variável idade.
@@ -16,7 +16,7 @@ let vagas = 100
  }else{
      console.log("[Parabéns!] Cadastro concluído!")
  }
-//Sistema de data
+//Sistema 
  let data = new Date("2021-12-15")
  let cadastro = new Date()
 
